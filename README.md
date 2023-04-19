@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kasuletrevor
-- 👀 I’m interested in front-end development.
+- 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Python and Javascript. 
 - 📫 Contact me via email kasulejohntrevor@gmail.com.
 
